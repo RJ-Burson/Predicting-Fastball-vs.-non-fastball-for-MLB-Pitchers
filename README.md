@@ -1,1 +1,1 @@
-# Predicting-Fastball-vs.-non-fastball
+This is an undergrad project taking a pitcher's baseball savant pitch-by-pitch data and attempting to predict whether a pitcher will throw a fastball or a non-fastball on a given pitch. This served as an inspiration a a precursor to my masters thesis. 
